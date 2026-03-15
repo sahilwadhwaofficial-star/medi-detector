@@ -18,7 +18,7 @@ The original implementation is preserved without major modifications to reflect 
 📜 Certificate:
 ![Intel Certificate](certificates/intel_certificate.jpg)
 
-![Best AI-ML Project Award(International) Certificate](certificates/Codeavour2022_certificate.jpg)
+![Best AI-ML Project Award(International) Certificate](certificates/codeavour2022_certificate.jpg)
 
 ---
 
