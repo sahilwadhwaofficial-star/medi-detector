@@ -56,7 +56,7 @@ medi-detector/
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/yourusername/medi-detector
+git clone https://github.com/sahilwadhwaofficial-star/medi-detector
 
 ### 2️⃣ Install Dependencies
 
