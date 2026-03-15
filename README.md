@@ -16,8 +16,10 @@ The original implementation is preserved without major modifications to reflect 
 🏅 Developed under the **Intel AI for Youth – Data Science Bootcamp (2021)** and officially recognized by Intel
 
 📜 Certificate:
+**Intel Project Certificate**
 ![Intel Certificate](certificates/intel_certificate.jpg)
 
+**Codeavour 2022-Best AI-ML Project(International) Certificate**
 ![Best AI-ML Project Award(International) Certificate](certificates/codeavour2022_certificate.jpg)
 
 ---
