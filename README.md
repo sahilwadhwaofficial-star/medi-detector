@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run Project
 
-python src/medi_detector_2021_original.py
+python src/medi_detector.py
 
 ---
 
