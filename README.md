@@ -16,9 +16,9 @@ The original implementation is preserved without major modifications to reflect 
 🏅 Developed under the **Intel AI for Youth – Data Science Bootcamp (2021)** and officially recognized by Intel
 
 📜 Certificate:
-![Intel Certificate](outputs/intel_certificate.png)
+![Intel Certificate](certificates/intel_certificate.jpg)
 
-![Best AI-ML Project Award(International) Certificate](outputs/Codeavour2022_certificate.png)
+![Best AI-ML Project Award(International) Certificate](certificates/Codeavour2022_certificate.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ medi-detector/
 ├── src/
 │   └── medi_detector.py
 │
-├── outputs/
+├── certificates/
 │   └── intel_certificate.png
 |   └── codeavour2022_certificate.png
 │
