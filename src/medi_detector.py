@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import confusion_matrix
 
-df=pd.read_csv('Drug200.csv')
+df=pd.read_csv('data/Drug200.csv')
 df = df.head(201)
 print(df)
 
