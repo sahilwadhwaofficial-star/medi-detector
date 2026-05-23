@@ -13,7 +13,7 @@ The original implementation is preserved without major modifications to reflect 
 
 🥇 **Best AI/ML Project Award (International)** — Codeavour 2022
 
-🏅 Developed under the **Intel AI for Youth – Data Science Bootcamp (2021)** and officially recognized by Intel
+🏅 Developed under the **Intel AI for Youth – Data Science Bootcamp (2020)** and officially recognized by Intel
 
 📜 Certificate:
 **Intel Project Certificate**
