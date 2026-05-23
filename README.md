@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-**Medi-Detector** is a machine learning–based healthcare prediction system developed in **2021** under the **Intel AI for Youth – Data Science Bootcamp**.
+**Medi-Detector** is a machine learning–based healthcare prediction system developed in **2020** under the **Intel AI for Youth – Data Science Bootcamp**.
 The system predicts the most suitable medicine based on patient health indicators such as **age, gender, blood pressure, and cholesterol level** using a **Decision Tree classifier**.
 
 The original implementation is preserved without major modifications to reflect authentic learning work and coding style at that time.
